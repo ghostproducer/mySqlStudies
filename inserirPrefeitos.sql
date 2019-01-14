@@ -8,5 +8,6 @@ VALUES
 
 select * from prefeitos;
 
-INSERT INTO prefeitos (nome, cida_id)
+INSERT INTO prefeitos (nome, cidade_id)
 VALUES
+    ('Rafael Greca', null);
